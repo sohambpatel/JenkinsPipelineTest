@@ -1,0 +1,11 @@
+target/
+/.settings
+/*.project
+/*.log
+/bin/
+test-output
+/build/
+/*.iml
+/*.idea
+/Temp/
+/Logs/
