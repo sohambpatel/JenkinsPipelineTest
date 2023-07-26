@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="Regression">
+    <parameter name="browser" value="Chrome"/>
+    <!--Suite-->
+    <test name="Functional_Chrome_07/04/2023" preserve-order="true">
+        <classes>
+
+        </classes>
+    </test>
+</suite>
